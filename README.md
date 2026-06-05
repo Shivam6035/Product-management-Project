@@ -1,1 +1,3 @@
-# Product-management-Project
+# Problem Statement
+
+Solar-R-Us (SRU) LLC aims to expand its renewable energy portfolio by introducing an innovative solar water heating system that delivers superior energy efficiency, lower operating costs, and a seamless customer experience. Despite increasing market demand for sustainable heating solutions, customers face challenges such as high installation costs, lengthy deployment timelines, and limited system management capabilities. This project focuses on defining a market-driven product strategy, developing product requirements, evaluating competitive positioning, and creating a comprehensive product roadmap to successfully launch a differentiated solar water heating solution that increases market share, enhances customer satisfaction, and supports environmental sustainability goals.
