@@ -191,6 +191,8 @@ Long-Term Savings
 ---
 
 ## Strategic Impact
+<img width="1280" height="864" alt="SmartSolar strategic targets" src="https://github.com/user-attachments/assets/21cd27de-3f97-44dd-a2bf-ed3107ab726a" />
+
 
 ---
 
